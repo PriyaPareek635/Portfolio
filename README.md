@@ -20,7 +20,7 @@ Please stay tuned to until the development completed.
 ✔️ Work Experience
 
 
-#Setup And Deployment 🔧
+# Setup And Deployment 🔧
 
 1. To Get Started, Fork this repository to your GitHub account:
 
@@ -36,12 +36,12 @@ Please stay tuned to until the development completed.
 
 Facing issues? Feel free to contact at priyapareek635@gmail.com
 
-#Contributing 🙌
+# Contributing 🙌
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-Please feel free to ping me on:
+# Please feel free to ping me on:
 
 LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
