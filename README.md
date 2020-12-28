@@ -10,10 +10,15 @@ I like to travel. I believe travelling gives you a new perspective to everything
 Please stay tuned to until the development completed.
 
 Sections
+
 ✔️ Summary and About me
+
 ✔️ Skills
+
 ✔️ Education
+
 ✔️ Work Experience
+
 
 Setup And Deployment 🔧
 
@@ -21,21 +26,13 @@ Setup And Deployment 🔧
 
 2. Clone the forked repo from your account using:
 
-  git clone https://github.com/<your-username>/home.git
+          git clone https://github.com/<your-username>/home.git
 
 3. Edit title and meta description in index.html.
 
 4. After editing run the following bash commands:
   
-  index.html
-
-Or for deployment at <username>.github.io
-
-Congrats your site is up and running. To see it live, visit:
-
-  https://<your-username>.github.io/home
-
-Next time if you make changes, repeat from step 8.
+          index.html
 
 Facing issues? Feel free to contact at priyapareek635@gmail.com
 
