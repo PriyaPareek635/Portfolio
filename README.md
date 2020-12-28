@@ -9,6 +9,12 @@ I like to travel. I believe travelling gives you a new perspective to everything
 
 Please stay tuned to until the development completed.
 
+Sections
+✔️ Summary and About me
+✔️ Skills
+✔️ Education
+✔️ Work Experience
+
 Please feel free to ping me on:
 LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
