@@ -9,8 +9,7 @@ I like to travel. I believe travelling gives you a new perspective to everything
 
 Please stay tuned to until the development completed.
 
-
-Sections
+#Sections
 
 ✔️ Summary and About me
 
@@ -21,7 +20,7 @@ Sections
 ✔️ Work Experience
 
 
-Setup And Deployment 🔧
+#Setup And Deployment 🔧
 
 1. To Get Started, Fork this repository to your GitHub account:
 
@@ -37,7 +36,7 @@ Setup And Deployment 🔧
 
 Facing issues? Feel free to contact at priyapareek635@gmail.com
 
-Contributing 🙌
+#Contributing 🙌
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
