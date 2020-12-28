@@ -11,7 +11,9 @@ Please stay tuned to until the development completed.
 
 # Sections
 
-✔️ Summary and About me
+✔️ Summary 
+
+✔️ About me
 
 ✔️ Skills
 
@@ -19,6 +21,7 @@ Please stay tuned to until the development completed.
 
 ✔️ Work Experience
 
+✔️ Projects
 
 # Setup And Deployment 🔧
 
