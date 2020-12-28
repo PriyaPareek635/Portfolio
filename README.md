@@ -1,4 +1,7 @@
-# Portfolio
+# Developer's Portfolio ✨
+          
+It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: https://priyapareek635.github.io/Portfolio/
+
 It is still in the development mode.
 
 My name is Priya Pareek. I'm a Frontend Developer. I was born in Rajasthan and raised in Andhra Pradesh.
@@ -49,5 +52,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
 WordPress : https://techsavvypriya.wordpress.com/
-
-Visit : https://priyapareek635.github.io/Portfolio/
