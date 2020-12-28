@@ -59,45 +59,6 @@ a {
     -webkit-text-decoration-skip: objects
 }
 
-abbr[title] {
-    border-bottom: none;
-    text-decoration: underline dotted
-}
-
-b,
-strong {
-    font-weight: bolder
-}
-
-dfn {
-    font-style: italic
-}
-
-mark {
-    background-color: #ff0;
-    color: #000
-}
-
-small {
-    font-size: 80%
-}
-
-sub,
-sup {
-    font-size: 75%;
-    line-height: 0;
-    position: relative;
-    vertical-align: baseline
-}
-
-sub {
-    bottom: -.25em
-}
-
-sup {
-    top: -.5em
-}
-
 audio,
 canvas,
 video {
@@ -143,170 +104,6 @@ select {
 button,
 html [type=button] {
     -webkit-appearance: button
-}
-
-
-/*work section start*/
-.work-section{
-    width: 100%;
-    overflow: hidden;
-    text-align: center;
-    padding-top: 100px;
-}
-.bd-grid{
-    display:grid;
-    grid-template-columns: auto auto auto;  
-}
-.work-img{
-    box-shadow: 0 4px 25px rgba(14,36,49,.15);
-    border-radius: .5rem;
-    position: relative;
-    height: 250px;
-    margin: 20px;
-    overflow: hidden;
-}
-.work-img img{
-    width: 100%;
-    height:250px;
-    display: block;
-    transition:1s;
-    cursor: pointer;
-}
-.work-img:hover img{
-    transform: scale(1.1);
-}
-.overlay{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(14,36,49,.5);
-  overflow: hidden;
-  width: 100%;
-  height: 100%;
-  transition: 1s;
-}
-.text{
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-  z-index:1;
-}
-.text p{
-    margin: 0px;
-}
-.text h3::before{
-    content: " ";
-    display: block;
-    width: 50%;
-    position: relative;
-    top: 35px;
-    left: 25%;
-    bottom: 0px;
-    height: 1px;
-    background-color: whitesmoke;
-}
-.work-img:hover .overlay{
-    background-color: rgba(14,36,49,.9);
-}
-.btn{
-    display: flex;
-}
-.visit,.code{
-    width: 140px;
-    font-size: 16px;
-    font-weight: 700;
-    padding: 10px;
-    color: white;
-    margin: 15px;
-    text-transform: capitalize;
-    font-family: 'Poppins',sans-serif;
-    background-color: transparent;
-    transition: 0.3s ease-in;
-    outline: 0;
-    border:0.1px solid white;
-    cursor: pointer;
-    border-radius: 10px;
-}
-.visit:hover,.code:hover{
-background-color: white;
-color: #102430;
-}
-
-[type=button]::-moz-focus-inner,
-[type=reset]::-moz-focus-inner,
-[type=submit]::-moz-focus-inner,
-button::-moz-focus-inner {
-    border-style: none;
-    padding: 0
-}
-
-[type=button]:-moz-focusring,
-[type=reset]:-moz-focusring,
-[type=submit]:-moz-focusring,
-button:-moz-focusring {
-    outline: 1px dotted ButtonText
-}
-
-fieldset {
-    padding: .35em .75em .625em
-}
-
-legend {
-    color: inherit;
-    display: table;
-    max-width: 100%;
-    white-space: normal
-}
-
-progress {
-    display: inline-block;
-    vertical-align: baseline
-}
-
-textarea {
-    overflow: auto
-}
-
-[type=checkbox],
-[type=radio],
-legend {
-    box-sizing: border-box;
-    padding: 0
-}
-
-[type=number]::-webkit-inner-spin-button,
-[type=number]::-webkit-outer-spin-button {
-    height: auto
-}
-
-[type=search] {
-    -webkit-appearance: textfield;
-    outline-offset: -2px
-}
-
-[type=search]::-webkit-search-cancel-button,
-[type=search]::-webkit-search-decoration {
-    -webkit-appearance: none
-}
-
-::-webkit-file-upload-button {
-    -webkit-appearance: button;
-    font: inherit
-}
-
-summary {
-    display: list-item
-}
-
-[hidden],
-template {
-    display: none
 }
 
 /*!
@@ -397,22 +194,6 @@ template {
     font-size: 1.33333333em;
     line-height: .75em;
     vertical-align: -15%
-}
-
-.fa-2x {
-    font-size: 2em
-}
-
-.fa-3x {
-    font-size: 3em
-}
-
-.fa-4x {
-    font-size: 4em
-}
-
-.fa-5x {
-    font-size: 5em
 }
 
 .fa-map-marker:before {
@@ -1176,13 +957,11 @@ a img {
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
+/* Footer Section*/
 .footer {
     background: #1488CC;
-    /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
-    /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #2B32B2, #1488CC);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
@@ -1200,7 +979,6 @@ a img {
 }
 
 /* eXPERIENCE STYLES */
-
 #experience {
     padding: 50px 15px;
     text-align: center;
@@ -1209,7 +987,6 @@ a img {
 #experience h2 {
     color: #374054;
 }
-
 
 #experience-timeline {
     margin: 30px auto 0 auto;
@@ -1296,7 +1073,6 @@ a img {
     font-weight: 300;
     color: #374054;
 }
-
 
 .heading {
     position: relative;
