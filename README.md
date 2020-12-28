@@ -49,12 +49,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # Please feel free to ping me on:
 
-<!-- ### Hi there 👋 -->
-<!-- 
-<p align="center">
-  <h2 align="center"><samp>Hi there 👋</samp></h2>
-</p>
-
 <p align="center">
   <samp>
     I love connecting with different people so if you want to say hi, I'll
@@ -69,11 +63,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
     <a href="https://www.linkedin.com/in/priya-pareek-9b9089153/">LinkedIn</a>
     .
     <a href="https://techsavvypriya.wordpress.com/">Blog</a>
-  <!-- </samp>
-</p> -->
-
-<!--
-**hashirshoaeb/hashirshoaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </samp>
+</p>
 
 Here are some ideas to get you started:
 
