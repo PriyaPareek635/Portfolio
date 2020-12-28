@@ -15,6 +15,35 @@ Sections
 ✔️ Education
 ✔️ Work Experience
 
+Setup And Deployment 🔧
+To Get Started, Fork this repository to your GitHub account:
+
+Clone the forked repo from your account using:
+
+  git clone https://github.com/<your-username>/home.git
+
+Edit title and meta description in index.html.
+
+ "homepage": "https://<your-username>.github.io/home"
+Or for deployment at custom domain, refer create-react-app.dev
+
+After editing run the following bash commands:
+
+index.html
+
+Or for deployment at <username>.github.io, refer READMEdocs/custom-deployment.md and pages.js
+
+Congrats your site is up and running. To see it live, visit:
+
+  https://<your-username>.github.io/home
+
+Next time if you make changes, repeat from step 8.
+
+Facing issues? Feel free to contact at priyapareek635@gmail.com
+
+Contributing 🙌
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 Please feel free to ping me on:
 LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
