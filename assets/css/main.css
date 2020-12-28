@@ -313,6 +313,7 @@ template {
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
+
 @-webkit-keyframes fa-spin {
     0% {
         -webkit-transform: rotate(0deg);
@@ -441,32 +442,22 @@ template {
     left: -1.85714286em
 }
 
+.fa-envelope-o:before {
+    content: "\f003"
+}
+
+.fa-envelope:before {
+    content: "\f0e0"
+}
+
+.fa-envelope-square:before {
+    content: "\f199"
+}
+
 .fa-border {
     padding: .2em .25em .15em;
     border: solid .08em #eee;
     border-radius: .1em
-}
-
-
-
-:root .fa-flip-horizontal,
-:root .fa-flip-vertical,
-:root .fa-rotate-180,
-:root .fa-rotate-270,
-:root .fa-rotate-90 {
-    filter: none
-}
-
-.fa-chevron-up:before {
-    content: "\f077"
-}
-
-.fa-chevron-down:before {
-    content: "\f078"
-}
-
-.fa-retweet:before {
-    content: "\f079"
 }
 
 .fa-twitter-square:before {
