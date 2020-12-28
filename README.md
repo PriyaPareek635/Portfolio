@@ -61,9 +61,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
     be happy to meet you! :)
     <br />
     If you have any questions, or if you just want to say hi, please feel free to email me.
-    <!-- <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a> --> 
-    <!-- <br />
-    <br />
+    
     <a href="https://priyapareek635.github.io/Portfolio/">About Me</a>
     ·
     <a href="mailto:priyapareek635@gmail.com">Email</a>
