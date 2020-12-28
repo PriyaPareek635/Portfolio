@@ -37,11 +37,12 @@ Setup And Deployment 🔧
 Facing issues? Feel free to contact at priyapareek635@gmail.com
 
 Contributing 🙌
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please feel free to ping me on:
-LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
+LinkedIn : https://www.linkedin.com/in/priya-pareek-9b9089153/
 
 WordPress : https://techsavvypriya.wordpress.com/
 
